@@ -1,7 +1,7 @@
 # Платформа дистанционного обучения (ЛР №2)
 
-Реализация объектной модели из ЛР №1. Python 3.10+, интерфейс на Tkinter, данные в SQLite.
-Внешних зависимостей нет.
+Реализация объектной модели из ЛР №1 (https://docs.google.com/document/d/1Kr6dIO-drHeq6Fflg4tUPJnAmaVJEbLkr1LfKWf54Hg/edit?tab=t.0). Python 3.10+, интерфейс на Tkinter, данные в SQLite.
+Внешних зависимостей нет. 
 
 ## Запуск
 
